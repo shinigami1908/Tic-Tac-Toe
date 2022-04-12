@@ -1,4 +1,4 @@
-<ins>**Tic-Tac-Toe**</ins>
+#<ins>**Tic-Tac-Toe**</ins>
 
 A Java GUI which simulates a tic tac toe between two real world players.
 IDE Used : NetBeans IDE

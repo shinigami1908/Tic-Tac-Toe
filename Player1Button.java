@@ -65,9 +65,9 @@ private void jButton1ActionPerformed
 					jOptionPane.showMessageDialog(this,"It is a DRAW...");
 				else
 					jTextField11.setEditable(true);
-				jButton1.setEnabled(false);
-				jButton2.setEnabled(true);
-				jTextField10.setEditable(false);
+			jButton1.setEnabled(false);
+			jButton2.setEnabled(true);
+			jTextField10.setEditable(false);
 		}
 		else
 			jOptionPane.showMessageDialog(this,"Already Occupied Option RE-ENTER (1..9)");

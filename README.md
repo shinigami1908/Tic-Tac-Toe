@@ -1,5 +1,4 @@
 # Tic-Tac-Toe
-___
 A Java GUI which simulates a tic tac toe between two real world players.
 <br>
 IDE Used : NetBeans IDE
